@@ -1,0 +1,24 @@
+{
+  "form": [
+    {
+      "name": "Jitesh sirohi",
+      "age": "20",
+      "address": "ghaziabad",
+      "department": "IT",
+      "salary": "120000",
+      "status": "Male",
+      "photo": "TB.jpg",
+      "id": 12
+    },
+    {
+      "name": "khajoor",
+      "age": "15",
+      "address": "patna",
+      "department": "HR",
+      "salary": "50",
+      "status": "Male",
+      "photo": "profile.jpg",
+      "id": 13
+    }
+  ]
+}
